@@ -10,4 +10,4 @@
 
 ## Technologies I think I know
 
-* <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+* <img height=40 src="./node_modules/devicon/icons/c/c-original.svg"/> <img height=40 src="./node_modules/devicon/icons/cplusplus/cplusplus-original.svg"/>  
