@@ -10,18 +10,18 @@
 
 ## Technologies I think I know
 
-<img height=40 src="./node_modules/devicon/icons/c/c-original.svg"/> 
-<img height=40 src="./node_modules/devicon/icons/cplusplus/cplusplus-original.svg"/> 
-<img height=40 src="./node_modules/devicon/icons/csharp/csharp-original.svg"/> 
-<img height=40 src="./node_modules/devicon/icons/dot-net/dot-net-original.svg"/> 
-<img height=40 src="./node_modules/devicon/icons/dotnetcore/dotnetcore-original.svg"/>  
+<img height=40 src="./node_modules/devicon/icons/c/c-original.svg"/>
+<img height=40 src="./node_modules/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img height=40 src="./node_modules/devicon/icons/csharp/csharp-original.svg"/>
+<img height=40 src="./node_modules/devicon/icons/dot-net/dot-net-original.svg"/>
+<img height=40 src="./node_modules/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
 <img height=40 src="./node_modules/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 <img height=40 src="./node_modules/devicon/icons/javascript/javascript-original.svg"/> 
-<img height=40 src="./node_modules/devicon/icons/nodejs/nodejs-original.svg"/> 
-<img height=40 src="./node_modules/devicon/icons/express/express-original.svg"/> 
-<img height=40 src="./node_modules/devicon/icons/vim/vim-plain.svg"/> 
-<img height=40 src="./node_modules/devicon/icons/lua/lua-original.svg"/> 
-<img height=40 src="./node_modules/devicon/icons/msdos/msdos-original.svg"/> 
+<img height=40 src="./node_modules/devicon/icons/nodejs/nodejs-original.svg"/>
+<img height=40 src="./node_modules/devicon/icons/express/express-original.svg"/>
+<img height=40 src="./node_modules/devicon/icons/vim/vim-plain.svg"/>
+<img height=40 src="./node_modules/devicon/icons/lua/lua-original.svg"/>
+<img height=40 src="./node_modules/devicon/icons/msdos/msdos-original.svg"/>
 
 ## Technologies I am learning
 
